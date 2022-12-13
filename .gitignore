@@ -1,0 +1,10 @@
+# IDE
+.idea/
+
+# Compiled
+*.pyc
+build/
+sfer.egg-info/
+
+# Downloads
+models/
